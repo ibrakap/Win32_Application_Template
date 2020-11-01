@@ -1,0 +1,9 @@
+.vs/
+Debug/
+Release/
+x64/
+x86/
+Win32 App Template/Debug/
+Win32 App Template/Release/
+Win32 App Template/x64/
+Win32 App Template/x86/
